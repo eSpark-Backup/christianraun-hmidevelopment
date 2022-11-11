@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<MovementControllerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MotorCommunicationAttempts>5</MotorCommunicationAttempts>
+  <MotorProcessingDelay>500</MotorProcessingDelay>
+  <MotorBusPropagationDelay>1</MotorBusPropagationDelay>
+  <PositioningAttempts>3</PositioningAttempts>
+  <PositionReadPeriod>10</PositionReadPeriod>
+  <CalibrationAdditionalTravel>8000</CalibrationAdditionalTravel>
+  <CurrentRampUpSteps>250</CurrentRampUpSteps>
+  <CurrentRampUpStepPeriod>8</CurrentRampUpStepPeriod>
+  <EmergencyStopPollingPeriod>1</EmergencyStopPollingPeriod>
+  <EmergencyStopMinimumActivatedReadCount>50</EmergencyStopMinimumActivatedReadCount>
+  <MovementVelocity>2667</MovementVelocity>
+  <CalibrationVelocity>1333</CalibrationVelocity>
+  <MovementAcceleration>500</MovementAcceleration>
+  <CalibrationAcceleration>500</CalibrationAcceleration>
+  <MovementCurrent>100</MovementCurrent>
+  <CalibrationCurrent>60</CalibrationCurrent>
+  <StandbyCurrent>42</StandbyCurrent>
+  <MovementMaxFollowError>100</MovementMaxFollowError>
+  <CalibrationMaxFollowError>100</CalibrationMaxFollowError>
+  <GroupBroadcastAddress>65535</GroupBroadcastAddress>
+</MovementControllerConfiguration>

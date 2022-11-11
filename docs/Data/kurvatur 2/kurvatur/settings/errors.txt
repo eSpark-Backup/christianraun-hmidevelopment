@@ -1,0 +1,26 @@
+
+*** LAST ERROR *** 
+
+Error Date: day/month/year
+Error Time: hour.min.sec
+Error Code/Name: 
+Error Explanation: 
+
+**********************
+Error Date: day/month/year
+Error Time: hour.min.sec
+Error Code/Name: 
+Error Explanation: 
+
+
+Error Date: day/month/year
+Error Time: hour.min.sec
+Error Code/Name: 
+Error Explanation: 
+
+Error Date: day/month/year
+Error Time: hour.min.sec
+Error Code/Name: 
+Error Explanation: 
+...
+

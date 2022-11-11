@@ -1,0 +1,12 @@
+
+Size: 2.7 X 1.5
+Minimum Radius:
+Motor Count: 405
+Motor Errors: No/Yes
+Parts produced: "How many shape is given the machine in total" 
+Time in operation: 
+36V Power Status: On/Off
+230V power Status: On/Off: 
+Stop Button: On/Off 
+
+

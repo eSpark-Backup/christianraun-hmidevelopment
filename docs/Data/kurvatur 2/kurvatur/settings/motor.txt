@@ -1,0 +1,5 @@
+Total Motor Number: ...405 
+Motor Current Percentage: 
+Motor Delay time: It is the max delay time for the motor movement. If motor not complete the movement within the time, "stalled error"
+Motor Power up Speed: (It is 1 by 1 but can be changeable like 2 by 2, 3 by 3)
+Motor Speed: 
