@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<MotorConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mode>Passive</Mode>
+  <InvertMotorDirection>false</InvertMotorDirection>
+  <InvertEncoderDirection>false</InvertEncoderDirection>
+  <Velocity>2667</Velocity>
+  <Acceleration>500</Acceleration>
+  <CurrentScale>Full</CurrentScale>
+  <RunCurrent>100</RunCurrent>
+  <StandbyCurrent>42</StandbyCurrent>
+  <StandbyDelay>500</StandbyDelay>
+  <FullStepsPerRevolution>200</FullStepsPerRevolution>
+  <MaxFollowError>100</MaxFollowError>
+  <FreewheelModeOnError>false</FreewheelModeOnError>
+  <DriverDeadTime>FourHundredNanoseconds</DriverDeadTime>
+  <DriverOffTime>20</DriverOffTime>
+  <DriverBlankingTime>0</DriverBlankingTime>
+  <DriverAdaptiveBlankingTime>false</DriverAdaptiveBlankingTime>
+  <DriverDecayTime>10</DriverDecayTime>
+  <DriverDecayMode>AutoMixedDecay</DriverDecayMode>
+  <DriverOverCurrentProtectionThreshold>TwoHundredAndFiftyMillivolts</DriverOverCurrentProtectionThreshold>
+  <DriverOverCurrentProtectionDeglitchTime>OneMicrosecond</DriverOverCurrentProtectionDeglitchTime>
+  <DriverLowSideGateDriveTime>OneMicrosecond</DriverLowSideGateDriveTime>
+  <DriverHighSideGateDriveTime>OneMicrosecond</DriverHighSideGateDriveTime>
+  <DriverLowSideGateDriveCurrent>OneHundredMilliampere</DriverLowSideGateDriveCurrent>
+  <DriverHighSideGateDriveCurrent>FiftyMilliampere</DriverHighSideGateDriveCurrent>
+  <GroupBroadcastAddress>65535</GroupBroadcastAddress>
+</MotorConfiguration>

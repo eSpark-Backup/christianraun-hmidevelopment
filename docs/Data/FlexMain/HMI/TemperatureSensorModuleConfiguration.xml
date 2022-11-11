@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<TemperatureSensorModuleConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PortName>COM2</PortName>
+  <Address>1</Address>
+  <UpdatePeriod>500.0</UpdatePeriod>
+  <TemperatureSensorType>TypeJThermocouple</TemperatureSensorType>
+  <TemperatureChannels>
+      <int>0</int>
+  </TemperatureChannels>
+  <TemperatureSensorNames>
+    <string>Cabinet</string>
+  </TemperatureSensorNames>
+  <TemperatureWarningOnLevels>
+    <double>40</double>
+  </TemperatureWarningOnLevels>
+  <TemperatureWarningOffLevels>
+    <double>38</double>
+  </TemperatureWarningOffLevels>
+  <TemperatureErrorOnLevels>
+    <double>50</double>
+  </TemperatureErrorOnLevels>
+  <TemperatureErrorOffLevels>
+    <double>48</double>
+  </TemperatureErrorOffLevels>
+</TemperatureSensorModuleConfiguration>
